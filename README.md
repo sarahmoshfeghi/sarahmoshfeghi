@@ -7,7 +7,7 @@ I'm **sara**, a passionate technologist and lifelong learner, combining creativi
 ---
 
 ## 🌟 About Me  
-🎹 **Hobbies:** Traveling, mountain climbing, playing the piano, and listening to music.  
+🎹 **Hobbies:** Traveling, mountainneer, playing the piano, and listening to music.  
 🔒 **Experience:**  
 - 10+ years in **networking**  
 - 4+ years in **security** with a focus on **automation**  
