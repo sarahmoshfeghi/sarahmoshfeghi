@@ -17,9 +17,9 @@ I'm **sara**, a passionate technologist and lifelong learner, combining creativi
 ## 🔑 Key Expertise  
 | **Skill**                 | **Tools/Technologies**                          | **Focus**                     |  
 |---------------------------|------------------------------------------------|--------------------------------|  
-| **Automation**            | SOAR, Shuffle, Hive, Cortex, MISP             | Building Playbooks, WAF       |  
-| **Web Application Firewalls** | WAF Installation & Optimization              | Security & Scalability         |  
-| **Security Monitoring**   | Various Monitoring Tools                      | Threat Detection & Prevention |  
+| **Automation**            | SOAR, Shuffle, Hive, Cortex, MISP,JEnkins,ansible             | Building Playbooks, WAF       |  
+| **Web Application Firewalls** | WAF Installation & Optimization,Cloud WAF              | Security & Scalability         |  
+| **Security Monitoring**   | Various Monitoring Tools,Prometheus, Grafana                      | Threat Detection & Prevention |  
 
 ---
 
